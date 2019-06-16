@@ -1,30 +1,25 @@
-# Music
-## Compisition
+## **Symphony**
+- **Op.0**: "The Nature"
+- **Arr.3**: Beethoven Piano Sonatas for Symphony
 
-| Opus  | Name                      | Instrument           | Reviewer | Status      |
-| ----- | ------------------------- | -------------------- | -------- | ----------- |
-| Op.0  | Nature                    | Orchestra & Electron |          | TODO        |
-| Op.1  | The History               | Piano                |          | TODO        |
-| Op.2  | Xiangyang Cannon          | Percussion Quintet   |          | TODO        |
-| Op.3  | Musical Poetry            | Piano                |          | TODO        |
-| Op.4  | Love and Sex              | Electornica          |          | TODO        |
-| Op.5  | The Silence               | Orchestra            |          | TODO        |
-| Op.6  | Sounds                    | Electornica          |          | TODO        |
-| Op.7  | in Treatment              | Electornica          |          | TODO        |
-| Op.8  | Infinity                  | Electornica          |          | TODO        |
-| WoO.1 | Song of Udacity           | Chord                |          | TODO        |
-| Arr.1 | Goldberg Variations: Aria | Piano                |          | IN PROGRESS |
-| Arr.2 | Beethoven Op.27 No.2:I    | Piano                |          | IN PROGRESS |
+## **Piano**
+- **Op.1**: The History of Music
+- **Op.3**: Poem
+- **Arr.1**: Beethoven Op.27 No.2: I
+- **Arr.2**: BWV 988: Aria
 
-## Piano
+## Percussion
+- **Op.2**:  	Percussion Quintet - Xiangyang Cannon	
 
-| Opus/Name                                                | Composer                | Reviewer | Status |
-| -------------------------------------------------------- | ----------------------- | -------- | ------ |
-| The Complete Piano Sonatas                               | Ludwig van Beethoven    |          | TODO   |
-| Goldberg Variations                                      | J.S. Bach               |          | TODO   |
-| Beethoven Symphonies for Piano                           | Franz Liszt             |          | TODO   |
-| Keyboard Concerto No. 1 in d minor, BWV 1052: I. Allegro | J.S. Bach               |          | TODO   |
-| Rondo Capriccioso In e minor Opus 14                     | Felix Mendelssohn       |          | TODO   |
-| Piano Trio No. 2 in E flat major D.929                   | Franz Schubert          |          | TODO   |
-| Piano Sonata No. 8 in a minor, K. 310                    | Wolfgang Amadeus Mozart |          | TODO   |
-| Piano Sonata No. 16 in A Minor, D. 845: I. Moderato      | Franz Schubert          |          | TODO   |
+## **Computer**
+- **Op.4**: Love and Sex
+- **Op.6**: The Sounds 
+- **Op.7**: in Treatment
+- **Op.8**: Infinity Rhythm
+
+## Concerto
+- **Op.5**: The Silence
+
+## Chords
+- **WoO.1**: The Song of Udacity
+- **Op.9**: Mouth technique
